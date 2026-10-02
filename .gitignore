@@ -1,0 +1,5 @@
+# never commit secrets or machine-specific files
+*.key
+*.pem
+.env
+settings.php
